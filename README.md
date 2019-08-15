@@ -1,0 +1,2 @@
+# Bamz
+Simple and Lovable
